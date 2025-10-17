@@ -12,8 +12,8 @@ public class Listaa20 {
 	        mostrarMeses();
 
 	        verificarDivisibilidade(15);
-	        despedida("Mariana");
-	        unirNomes("Julieta", "Correia");
+	        despedida("Geovanna");
+	        unirNomes("Geovanna", "Carvalho");
 	        verificarMaiorQue100(75);
 	        classificarVelocidade(90);
 	        saudacaoPorDia("terça-feira");
@@ -112,3 +112,4 @@ public class Listaa20 {
 	        }
 	    }
 }
+
